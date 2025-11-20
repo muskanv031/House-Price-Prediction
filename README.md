@@ -19,3 +19,17 @@ Model Evaluation
 Prediction on New Data
 
 The goal is to build an accurate and reliable regression model for price prediction.
+
+🔧 Technologies Used
+
+Python
+
+NumPy
+
+Pandas
+
+Matplotlib / Seaborn
+
+Scikit-Learn
+
+Jupyter Notebook
